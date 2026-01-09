@@ -1,0 +1,16 @@
+INSERT INTO projects (project_id, project_name, start_date, end_date, budget, status) VALUES
+(1, 'Project Voyager', '2023-01-10', '2024-06-30', 1200000.00, 'Active'),
+(2, 'Quantum Leap', '2023-05-20', '2024-12-15', 850000.00, 'Active'),
+(3, 'Phoenix Platform', '2022-08-01', '2023-11-30', 1500000.00, 'Completed'),
+(4, 'Fusion Analytics', '2023-02-01', '2024-03-30', 900000.00, 'On Hold'),
+(5, 'Orion Initiative', '2023-04-15', '2024-08-20', 1100000.00, 'Planning'),
+(6, 'Nexus CRM', '2022-10-01', '2023-09-30', 750000.00, 'Completed'),
+(7, 'Project Chimera', '2023-07-01', '2025-01-01', 1300000.00, 'Active'),
+(8, 'Aurora Web App', '2023-09-01', '2024-02-28', 500000.00, 'Active'),
+(9, 'Starlight System', '2024-01-05', '2025-05-15', 1800000.00, 'Planning'),
+(10, 'Innovate 2.0', '2023-03-10', '2024-01-20', 950000.00, 'Completed'),
+(11, 'Epsilon Program', '2024-02-20', '2025-07-30', 1450000.00, 'Active'),
+(12, 'Project Echo', '2023-06-01', '2024-04-15', 650000.00, 'Active'),
+(13, 'Titan Migration', '2022-11-15', '2023-08-10', 2100000.00, 'Completed'),
+(14, 'Zeus Cloud', '2024-03-01', '2025-09-01', 1700000.00, 'Planning'),
+(15, 'Project Atlas', '2023-08-25', '2024-05-20', 1000000.00, 'Active');
